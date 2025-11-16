@@ -1,0 +1,10 @@
+[requires]
+glib/2.78.1
+
+[generators]
+CMakeDeps
+CMakeToolchain
+
+[options]
+glib/*:shared=False
+

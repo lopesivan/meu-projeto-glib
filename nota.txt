@@ -1,0 +1,4 @@
+meu-projeto-glib/
+├── conanfile.txt
+├── CMakeLists.txt
+└── main.cpp
